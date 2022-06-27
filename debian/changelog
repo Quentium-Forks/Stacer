@@ -1,8 +1,10 @@
-stacer (1.1.0-1) stable; urgency=medium
+stacer (1.2.0-1) stable; urgency=medium
 
-  * Snap package uninstaller.
-  * Advanced file search.
-  * Disk chart.
-  * Host manager.
+  * Fixed HighDPI support
+  * Fixed CPU max speed value
+  * Added Double-Click to Stacer's System Tray Icon
+  * Fixed "--hide" and added "--nosplash" command-line option
+  * Do not remove sub directories in "/var/log" cleanup, only files
+  * Built with QT 5.15.4 on focal
 
- -- Oguzhan Inan <oguzhan3488@gmail.com>  Sun, 13 May 2018 00:50:10 +0300
+ -- Quentin Lienhardt <pro@quentium.fr>  Mon, 27 Jun 2022 16:30:00 +0100
