@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: stacer
-Source: https://github.com/oguzhaninan/Stacer/
+Source: https://github.com/Quentium-Forks/Stacer
 
 Files: *
 Copyright: 2017-2019 Oguzhan INAN <oguzhan3488@gmail.com>

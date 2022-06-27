@@ -1,11 +1,12 @@
 Source: stacer
 Section: utils
 Priority: optional
-Maintainer: Oguzhan INAN <oguzhan3488@gmail.com>
-Build-Depends: debhelper (>=9)
-Standards-Version: 3.9.6
-Homepage: https://github.com/oguzhaninan/Stacer
-Vcs-Browser: https://github.com/oguzhaninan/Stacer.git
+Maintainer: Quentin Lienhardt <pro@quentium.fr>
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.4.1
+Homepage: https://github.com/Quentium-Forks/Stacer
+Vcs-Browser: https://github.com/Quentium-Forks/Stacer
+Vcs-Git: https://github.com/Quentium-Forks/Stacer.git
 
 Package: stacer
 Architecture: all

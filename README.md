@@ -1,13 +1,8 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/header.png" width="800">    
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/header.png" width="800">    
 </p>
 
-<p align="center">
-  <b>Linux System Optimizer and Monitoring</b>   <br>
-    <a href="https://www.patreon.com/oguzhaninan">
-	    <img alt="Patreon" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="50" />
-    </a>
-</p>
+<h2 align="center">Linux System Optimizer and Monitoring</h2>
 
 <p align="center">
 	<a href="https://sourceforge.net/projects/stacer/files/" rel="nofollow">
@@ -16,14 +11,8 @@
 	<a href="https://www.kernel.org">
 		<img alt="Platform (GNU/Linux)" src="https://img.shields.io/badge/platform-GNU/Linux-blue.svg"/>
 	</a>
-	<a href="https://github.com/oguzhaninan/Stacer/releases">
-		<img alt="Github All Releases" src="https://img.shields.io/github/downloads/oguzhaninan/stacer/total.svg"/>
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://sourceforge.net/projects/stacer/files/" >
-		<img src="https://a.fsdn.com/con/app/sf-download-button" />
+	<a href="https://github.com/Quentium-Forks/Stacer/releases">
+		<img alt="Github All Releases" src="https://img.shields.io/github/downloads/Quentium-Forks/Stacer/total.svg"/>
 	</a>
 </p>
 
@@ -54,7 +43,7 @@
 
 ### PPA Repository (for ubuntu)
 
-1. Run `sudo add-apt-repository ppa:oguzhaninan/stacer -y`
+1. Run `sudo add-apt-repository ppa:quentiumyt/stacer -y`
 2. Run `sudo apt-get update`
 3. Run `sudo apt-get install stacer -y`
 
@@ -67,8 +56,8 @@
 
 ### Debian x64
 
-1. Download `stacer_1.1.0_amd64.deb` from the [Stacer releases page](https://github.com/oguzhaninan/Stacer/releases).
-2. Run `sudo dpkg -i stacer_1.1.0_amd64.deb` on the downloaded package.
+1. Download the stacer binary from the [Stacer releases page](https://github.com/Quentium-Forks/Stacer/releases).
+2. Run `sudo dpkg -i stacer_*.deb` on the downloaded package.
 3. Launch Stacer using the installed `stacer` command.
 
 ### Debian sid / Ubuntu 20.04+
@@ -77,8 +66,8 @@
 
 ### Fedora
 
-1. Download `stacer_1.1.0_amd64.rpm` from the [Stacer releases page](https://github.com/oguzhaninan/Stacer/releases).
-2. Run `sudo rpm --install stacer_1.1.0_amd64.rpm --nodeps --force` on the downloaded package.
+1. Download the stacer binary from the [Stacer releases page](https://github.com/Quentium-Forks/Stacer/releases).
+2. Run `sudo rpm --install stacer_*.rpm --nodeps --force` on the downloaded package.
 3. Launch Stacer using the installed `stacer` command.
 
 ### Fedora (with DNF)
@@ -119,67 +108,67 @@ Dependencies:
 ## Screenshots
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-1.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-1.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-2.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-2.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-3.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-3.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-4.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-4.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-5.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-5.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-6.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-6.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-7.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-7.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-8.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-8.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-9.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-9.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-10.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-10.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-11.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-11.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-12.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-12.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-13.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-13.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-14.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-14.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-15.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-15.png" width="700">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/oguzhaninan/Stacer/native/screenshots/Screenshot-1.0.9-16.png" width="700">
+    <img src="https://raw.githubusercontent.com/Quentium-Forks/Stacer/native/screenshots/Screenshot-1.0.9-16.png" width="700">
 </p>
 
 ## Contributors
@@ -187,7 +176,7 @@ Dependencies:
 ### Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/oguzhaninan/Stacer/graphs/contributors"><img src="https://opencollective.com/Stacer/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Quentium-Forks/Stacer/graphs/contributors"><img src="https://opencollective.com/Stacer/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
